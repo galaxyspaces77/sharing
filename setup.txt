@@ -6,3 +6,5 @@
 # git commit -m "commit sharing"
 # git remote -v
 # git push -u origin main
+galaxyspaces77
+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
