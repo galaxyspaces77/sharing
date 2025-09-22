@@ -1,9 +1,0 @@
-# git clone https://github.com/galaxyspaces77/sharing.git
-# cd sharing
-# git status
-# git add document.docx
-# git status
-# git commit -m "commit sharing"
-# git remote -v
-# git push -u origin main
-galaxyspaces77
